@@ -116,7 +116,7 @@ i {
     max-width:100%; /* is relative to container */ 
     padding: 7% 7%;
     position: relative;
-    border-bottom: 1px solid rgb(222, 223, 225, 0.5);      
+    border-bottom: 1px solid rgb(240, 240, 240);      
 }
 
 .sign-up-link{
